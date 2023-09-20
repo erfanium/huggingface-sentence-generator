@@ -1,4 +1,6 @@
+# The Idea
 
+```py
 from transformers import GPT2LMHeadModel, AutoTokenizer
 import torch
 
